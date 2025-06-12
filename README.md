@@ -12,7 +12,7 @@
 🌐 I enjoy sharing my work on platforms like GitHub.
 
 📫 Contact:
-- 📧 amolpatil@email.com *(replace with your actual email)*
+- 📧 amolpatil9022388@email.com 
 - 📍 Jalgaon, Maharashtra, India
 
 ---
